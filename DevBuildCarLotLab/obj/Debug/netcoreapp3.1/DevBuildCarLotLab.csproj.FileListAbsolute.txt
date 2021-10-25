@@ -1,0 +1,14 @@
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\bin\Debug\netcoreapp3.1\DevBuildCarLotLab.exe
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\bin\Debug\netcoreapp3.1\DevBuildCarLotLab.deps.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\bin\Debug\netcoreapp3.1\DevBuildCarLotLab.runtimeconfig.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\bin\Debug\netcoreapp3.1\DevBuildCarLotLab.runtimeconfig.dev.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\bin\Debug\netcoreapp3.1\DevBuildCarLotLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\bin\Debug\netcoreapp3.1\DevBuildCarLotLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.csproj.AssemblyReference.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.AssemblyInfoInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.AssemblyInfo.cs
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.csproj.CoreCompileInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildCarLotLab\DevBuildCarLotLab\obj\Debug\netcoreapp3.1\DevBuildCarLotLab.genruntimeconfig.cache
