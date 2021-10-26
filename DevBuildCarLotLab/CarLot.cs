@@ -124,7 +124,7 @@ namespace DevBuildCarLotLab
             catch
             {
                 Console.WriteLine("That mileage was invalid. Please try again.");
-                return GetYear();
+                return GetMileage();
             }
         }
 
